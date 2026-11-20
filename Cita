@@ -3,7 +3,15 @@ icpplus-monitor/gianimesa95-maker
 │   └── workflows/
 │       └── monitor.yml
 ├── data/
-│   ├── profiles.json
+│   ├── profiles.json{
+  "id": "giannina_meza",
+  "name": "Giannina Meza",
+  "enabled": true
+  "province": "Barcelona",
+  "procedure_name": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+  "no_slots_phrases": [],
+  "selectors": {}
+}
 │   └── status.json
 ├── monitor.py
 ├── requirements.txt
