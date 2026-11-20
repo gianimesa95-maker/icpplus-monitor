@@ -1,7 +1,7 @@
 icpplus-monitor/gianimesa95-maker
 ├── .github/gianimesa95-maker
 │   └── workflows/
-│       └── monitor.yml
+│       └── monitor.yml - cron: "*/10 * * * *"
 ├── data/
 │   ├── profiles.json{
   "id": "giannina_meza",
